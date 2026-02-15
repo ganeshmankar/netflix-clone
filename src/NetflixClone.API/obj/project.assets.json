@@ -762,11 +762,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\NetflixClone.API.csproj",
+      "projectUniqueName": "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\NetflixClone.API.csproj",
       "projectName": "NetflixClone.API",
-      "projectPath": "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\NetflixClone.API.csproj",
+      "projectPath": "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\NetflixClone.API.csproj",
       "packagesPath": "C:\\Users\\ganes\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\obj\\",
+      "outputPath": "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -787,11 +787,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Application\\NetflixClone.Application.csproj": {
-              "projectPath": "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Application\\NetflixClone.Application.csproj"
+            "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Application\\NetflixClone.Application.csproj": {
+              "projectPath": "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Application\\NetflixClone.Application.csproj"
             },
-            "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Infrastructure\\NetflixClone.Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Infrastructure\\NetflixClone.Infrastructure.csproj"
+            "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Infrastructure\\NetflixClone.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ganes\\Desktop\\netflix-clone\\src\\NetflixClone.Infrastructure\\NetflixClone.Infrastructure.csproj"
             }
           }
         }
