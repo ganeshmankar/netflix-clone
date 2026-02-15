@@ -13,3 +13,4 @@ c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\refint\NetflixClone.Application.dll
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.pdb
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\ref\NetflixClone.Application.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.sourcelink.json

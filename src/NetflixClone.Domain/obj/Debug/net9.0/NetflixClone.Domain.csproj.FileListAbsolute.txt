@@ -9,3 +9,4 @@ c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\Ne
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\refint\NetflixClone.Domain.dll
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.pdb
 c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\ref\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.sourcelink.json
