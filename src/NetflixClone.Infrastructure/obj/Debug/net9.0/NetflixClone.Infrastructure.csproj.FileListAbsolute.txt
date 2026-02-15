@@ -1,0 +1,17 @@
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Infrastructure.deps.json
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Infrastructure.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Infrastructure.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Application.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Application.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\bin\Debug\net9.0\NetflixClone.Domain.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.csproj.AssemblyReference.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.AssemblyInfoInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.AssemblyInfo.cs
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.csproj.CoreCompileInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixC.A71A0581.Up2Date
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\refint\NetflixClone.Infrastructure.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\NetflixClone.Infrastructure.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Infrastructure\obj\Debug\net9.0\ref\NetflixClone.Infrastructure.dll

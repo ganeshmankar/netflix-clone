@@ -1,0 +1,15 @@
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\bin\Debug\net9.0\NetflixClone.Application.deps.json
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\bin\Debug\net9.0\NetflixClone.Application.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\bin\Debug\net9.0\NetflixClone.Application.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\bin\Debug\net9.0\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\bin\Debug\net9.0\NetflixClone.Domain.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.csproj.AssemblyReference.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.AssemblyInfoInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.AssemblyInfo.cs
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.csproj.CoreCompileInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixC.9C61E9F0.Up2Date
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\refint\NetflixClone.Application.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\NetflixClone.Application.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Application\obj\Debug\net9.0\ref\NetflixClone.Application.dll

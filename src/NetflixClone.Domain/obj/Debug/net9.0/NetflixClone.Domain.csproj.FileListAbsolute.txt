@@ -1,0 +1,11 @@
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\bin\Debug\net9.0\NetflixClone.Domain.deps.json
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\bin\Debug\net9.0\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\bin\Debug\net9.0\NetflixClone.Domain.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.AssemblyInfoInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.AssemblyInfo.cs
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.csproj.CoreCompileInputs.cache
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\refint\NetflixClone.Domain.dll
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\NetflixClone.Domain.pdb
+c:\Users\ganes\Desktop\netflix-clone\src\NetflixClone.Domain\obj\Debug\net9.0\ref\NetflixClone.Domain.dll

@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "NetflixClone.Infrastructure/1.0.0": {
+        "dependencies": {
+          "NetflixClone.Application": "1.0.0"
+        },
+        "runtime": {
+          "NetflixClone.Infrastructure.dll": {}
+        }
+      },
+      "NetflixClone.Application/1.0.0": {
+        "dependencies": {
+          "NetflixClone.Domain": "1.0.0"
+        },
+        "runtime": {
+          "NetflixClone.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "NetflixClone.Domain/1.0.0": {
+        "runtime": {
+          "NetflixClone.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NetflixClone.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetflixClone.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NetflixClone.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
