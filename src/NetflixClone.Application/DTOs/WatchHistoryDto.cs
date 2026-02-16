@@ -6,6 +6,7 @@ namespace NetflixClone.Application.DTOs;
 public class WatchHistoryDto
 {
     public Guid Id { get; set; }
+    public Guid UserId { get; set; }
     public Guid MovieId { get; set; }
     public MovieDto Movie { get; set; } = null!;
     public int LastWatchedPositionSeconds { get; set; }
